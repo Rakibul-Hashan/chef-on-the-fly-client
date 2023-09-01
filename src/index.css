@@ -1,0 +1,22 @@
+/*  imported Bebas_Neue + Manrope */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@300;400;500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* global custom class groups */
+@layer components {
+  .btnsprimary {
+    @apply py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75;
+  }
+}
+/* custom colors */
+
+/* custom css */
+.btn {
+  font-family: "Bebas Neue", sans-serif;
+}
+p {
+  font-family: "Manrope", sans-serif;
+}
