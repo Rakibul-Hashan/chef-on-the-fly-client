@@ -66,6 +66,7 @@ export default {
         "neutral-4": "#F6F7FB",
         "typo-100": "#2E133B",
       },
+      important: true
     },
   },
   plugins: [twTypography, daisyUI],

@@ -13,7 +13,7 @@ const WhoWeAre = () => {
         Our mission is to elevate the industry, eliminate your headaches, and revitalize the community that's cared for us over the years.
         
         If you could use some help, all you have to do is click the link!`}
-        link={`/faq`}
+        btnLink={`/faq`}
         btText="Get Started"
         eClass=""
         img={IMAGES.home.whoweare}

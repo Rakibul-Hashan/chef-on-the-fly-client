@@ -41,6 +41,18 @@ const IMAGES = {
   },
   faq:{
     arrow: require("./Arrow - Down 2.png")
+  },
+  aboutUs:{
+    hero: require("./about-us/hero.png"),
+    ourvision: require("./about-us/ourvision.png"),
+    ceo: require("./about-us/ceo.png"),
+    icon1: require("./about-us/icon1.png"),
+    icon2: require("./about-us/icon2.png"),
+    partner1: require("./about-us/partner1.png"),
+    partner2: require("./about-us/partner2.png"),
+    partner3: require("./about-us/partner3.png"),
+    
+    
   }
 };
 export default IMAGES;

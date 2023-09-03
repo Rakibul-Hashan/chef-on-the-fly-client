@@ -9,7 +9,7 @@ const PrivateChef = () => {
         mainExtraClass=""
         heading="Private Chef"
         paragraph="We provide the highest caliber of chefs that specialize in private catering, private dining, high-end event services, and more. Whether its for a special event, a private party, a sports team, a short or long-term affair, or providing an all-inclusive experience; Chef on the Fly has you covered."
-        link={`/faq`}
+        btnLink={`/faq`}
         btText="Book a Consultation"
         eClass=""
         img={IMAGES.services.privateChef}
