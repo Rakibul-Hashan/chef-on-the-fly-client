@@ -42,13 +42,13 @@ const Footer = () => {
           </Link>
         </div>
         <div className="flex flex-col gap-3">
-          <Link to={``} className="link link-hover">
+          <Link to={`/success-stories`} className="link link-hover">
             SUCCESS STORIES
           </Link>
           <Link to={``} className="link link-hover">
             PRIVATE CHEF SERVICES
           </Link>
-          <Link to={``} className="link link-hover">
+          <Link to={`/faq`} className="link link-hover">
             FAQ
           </Link>
         </div>

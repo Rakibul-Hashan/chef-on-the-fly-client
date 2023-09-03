@@ -39,5 +39,8 @@ const IMAGES = {
     contract16: require("../images/contracts/contract-16.jpg"),
     contract17: require("../images/contracts/contract-17.jpg"),
   },
+  faq:{
+    arrow: require("./Arrow - Down 2.png")
+  }
 };
 export default IMAGES;
