@@ -2,7 +2,9 @@ import React from "react";
 import IMAGES from "../../assets/images";
 import ImgText from "../../components/ImgText/ImgText";
 import AboutUsHero from "./AboutUsHero/AboutUsHero";
+import AboutUsSection from "./AboutUsSection/AboutUsSection";
 import OurApproach from "./OurApproach/OurApproach";
+import CtaSection from "./CtaSection/CtaSection";
 
 const AboutUs = () => {
   return (
@@ -22,8 +24,14 @@ const AboutUs = () => {
           order={`-order-1 lg:-order-1`}
         />
       </div>
-      <div className="px-5 py-7 md:py-0 lg:py-0 ">
-      <OurApproach/>
+      <div className="px-5 py-3 md:py-0 lg:py-0  ">
+        <OurApproach />
+      </div>
+      <div className="px-5 py-7 md:py-10 lg:py-20 ">
+        <AboutUsSection />
+      </div>
+      <div className="px-5 py-7 md:py-10 lg:py-20 ">
+        <CtaSection />
       </div>
     </div>
   );

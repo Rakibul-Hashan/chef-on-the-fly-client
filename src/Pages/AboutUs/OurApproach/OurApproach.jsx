@@ -3,7 +3,7 @@ import IMAGES from "../../../assets/images";
 
 const OurApproach = () => {
   return (
-    <div className="container lg:-translate-y-1/2 grid grid-cols-1  lg:grid-cols-2 items-center  gap-10 bg-primary-30 p-5 lg:p-4 rounded-[20px] overflow-hidden">
+    <div className="container lg:-mt-40 grid grid-cols-1  lg:grid-cols-2 items-center  gap-10 bg-primary-30 p-5 lg:p-4 rounded-[20px] overflow-hidden">
       <div className="left-side flex flex-col gap-6 md:pl-8">
         <span className="text-t48 text-primary text-center md:text-left">Our Approach</span>
         {/* icon-text */}
