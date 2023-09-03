@@ -8,7 +8,7 @@ console.log(homeUrl);
   
   return (
     <div className={`py-6 ${homeUrl === '/' ? "bg-primary-10" : "bg-base-10"} `}>
-      <div className="navbar container  ">
+      <div className="navbar container lg:px-0  ">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">

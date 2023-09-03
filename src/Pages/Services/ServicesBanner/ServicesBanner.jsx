@@ -1,11 +1,8 @@
-import React from 'react';
+import React from "react";
+import PageTopBanner from "../../../components/PageTopBanner/PageTopBanner";
 
 const ServicesBanner = () => {
-    return (
-        <div>
-                
-        </div>
-    );
+  return <PageTopBanner headingText="What Do We Do" />;
 };
 
 export default ServicesBanner;

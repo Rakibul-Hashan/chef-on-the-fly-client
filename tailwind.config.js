@@ -62,6 +62,7 @@ export default {
         // Using modern `rgb`
         "primary-10": "#F3E9F9",
         "primary-20": "#E7D2F1",
+        "primary-30": "#DBBBEB",
         "neutral-4": "#F6F7FB",
         "typo-100": "#2E133B",
       },
