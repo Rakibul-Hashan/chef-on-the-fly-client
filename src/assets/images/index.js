@@ -2,6 +2,7 @@ const IMAGES = {
   logo: require("./Logo.png"),
   home: {
     heroImg: require("./hero.png"),
+    bookCover: require("./book-cover-final.png"),
     second1: require("./book-meeting 1.png"),
     second2: require("./tell-us.png"),
     second3: require("./we-find.png"),

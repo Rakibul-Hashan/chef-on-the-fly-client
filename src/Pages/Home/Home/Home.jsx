@@ -17,7 +17,7 @@ const Home = () => {
         <WhoWeAre></WhoWeAre>
       </div>
       <div className="py-7 md:py-10 lg:py-20">
-        <Clients/>
+        <Clients />
       </div>
     </>
   );

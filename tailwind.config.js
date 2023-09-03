@@ -24,12 +24,13 @@ export default {
       fontFamily: {
         sans: ["Bebas Neue", ...defaultTheme.fontFamily.sans],
         beb: ["Bebas Neue", "sans-serif"], // for bebus neue font
+        bebBook: ["Bebas Neue Book", "sans-serif"], // for bebus book
         man: ["Manrope", "sans-serif"], // for manrope font
       },
       lineHeight: "150%",
       fontSize: {
         sm: "14px",
-        t16:"16px",
+        t16: "16px",
         base: "18px",
         xl: "1.25rem",
         "2xl": "1.563rem",
@@ -63,7 +64,6 @@ export default {
         "primary-20": "#E7D2F1",
         "neutral-4": "#F6F7FB",
         "typo-100": "#2E133B",
-        
       },
     },
   },
